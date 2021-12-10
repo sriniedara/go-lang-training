@@ -15,6 +15,8 @@ func main() {
 	//testConditionals()
 	//testArrays()
 	//testSlices()
-	mygo.TestMaps()
-	mygo.TestPointers()
+	//mygo.TestMaps()
+	//mygo.TestPointers()
+	//mygo.TestInterfaces()
+	mygo.TestEmpyInterfaces()
 }
