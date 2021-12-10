@@ -7,7 +7,6 @@ import (
 
 func main() {
 	fmt.Println("Hello...")
-
 	//testComplex()
 	//testTypeConv()
 	//testConstants()
@@ -18,5 +17,7 @@ func main() {
 	//mygo.TestMaps()
 	//mygo.TestPointers()
 	//mygo.TestInterfaces()
-	mygo.TestEmpyInterfaces()
+	//mygo.TestEmpyInterfaces()
+	//mygo.TestGoRoutines()
+	mygo.TestGoChannels()
 }

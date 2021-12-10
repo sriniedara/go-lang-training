@@ -6,7 +6,7 @@ func TestEmpyInterfaces() {
 
 	fmt.Println("Add1: ", add(10, 20))
 	fmt.Println("Add1: ", add(float32(10.10), float32(20.40)))
-	fmt.Println("Add1: ", add(10, float32(20.10)))
+	//fmt.Println("Add1: ", add(10, float32(20.10)))
 
 }
 
