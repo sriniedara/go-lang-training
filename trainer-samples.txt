@@ -1,0 +1,34 @@
+https://go.dev/play/p/u1tDYeOZqVk
+From jiten(He/Him) to Everyone 04:46 PM
+https://go.dev/play/p/jGJD3gE3JkD
+From jiten(He/Him) to Everyone 04:55 PM
+https://go.dev/play/p/D3sJ7n0TN5Z
+https://go.dev/play/p/YgTl_p0hmT2
+Slices: https://go.dev/play/p/vv0miItditx
+https://go.dev/play/p/g-lEUOr1vIQ
+https://go.dev/play/p/XEvsPxOUm48
+Maps: https://go.dev/play/p/rB3YBYm3Uva
+https://go.dev/play/p/TBwVWXc5uKX
+Structs: 
+https://go.dev/play/p/XUHyL1tEaQt
+https://go.dev/play/p/wey3XCVVqMY
+https://go.dev/play/p/srVvQO2fvTt
+https://go.dev/play/p/t79z6-WQ7yR
+MyMap :
+ https://go.dev/play/p/LY8JDS6nNu3
+Interfaces:
+https://go.dev/play/p/Tr3eiie8a1Z
+https://go.dev/play/p/cVZ7Bz4X-sV
+Empty interfaces: 
+  https://go.dev/play/p/UxNkeZmuyab
+Channels :
+ https://go.dev/play/p/c3dkosZtELt
+https://go.dev/play/p/Mi9Ng9JDYdn
+https://go.dev/play/p/A7zIy_BLI_y
+Channels with range : https://go.dev/play/p/fiJn-onurtl
+WaitGroup : https://go.dev/play/p/ur8vHuBI8fi
+Select : https://go.dev/play/p/jwjd2ZwzIlg
+Errors: https://go.dev/play/p/qkwNpqcyWOG
+
+Microservices:
+Jitin GitHub : https://github.com/JitenPalaparthi/contactsrestapi
